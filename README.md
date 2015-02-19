@@ -1,0 +1,2 @@
+# NewGit
+My first git
